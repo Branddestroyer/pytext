@@ -1,3 +1,9 @@
+# For more details
+
+* Visit Instagram: goo.gl/teCZtd 
+
+* To join in our community for more discussion: www.branddestroyer.slack.com
+
 # Overview
 
 [![CircleCI](https://circleci.com/gh/facebookresearch/pytext.svg?style=svg&circle-token=2e0e0cb6dc686b646df887c2e0f07a8429712243)](https://circleci.com/gh/facebookresearch/pytext)
@@ -57,9 +63,6 @@ You can use the exported caffe2 model to predict the class of raw utterances lik
 
 More examples and tutorials can be found in [Full Documentation](https://pytext-pytext.readthedocs-hosted.com)
 
-# Join the community
-
-* Facebook group: https://www.facebook.com/groups/pytext/ 
 
 # License
 PyText is BSD-licensed, as found in the LICENSE file.
