@@ -1,6 +1,6 @@
 # For more details
 
-* Visit Instagram: goo.gl/teCZtd 
+* Visit Instagram: www.goo.gl/teCZtd 
 
 * To join in our community for more discussion: www.branddestroyer.slack.com
 
